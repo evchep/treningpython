@@ -1,1 +1,1 @@
-# treningpython
+# Repo for python
